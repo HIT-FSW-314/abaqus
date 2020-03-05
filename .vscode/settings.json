@@ -1,0 +1,8 @@
+{
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "editor.rulers": [
+        6,
+        72
+    ],
+    "git.ignoreLimitWarning": true,
+}
